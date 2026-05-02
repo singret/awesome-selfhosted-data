@@ -1,0 +1,12 @@
+name: "Regen"
+website_url: "https://github.com/FluidifyAI/Regen"
+source_code_url: "https://github.com/FluidifyAI/Regen"
+description: "Open-source incident management platform with alert ingestion, on-call scheduling, escalation policies, and Slack/Teams integration. Self-hosted alternative to PagerDuty and Grafana OnCall."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Monitoring & Status Pages
+
