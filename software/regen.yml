@@ -8,5 +8,5 @@ platforms:
   - Go
   - Docker
 tags:
-  - Monitoring & Status Pages
+  - Ticketing
 
